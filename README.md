@@ -1,5 +1,5 @@
 # Credit Risk Analysis & Threshold Optimisation
-![Treshold Plot](images/profit_vs_threshold_line.png)
+![Treshold Plot](images/profit_vs_threshold_linear.png)
 
 This project explores credit risk modelling using the German Credit Dataset, with a focus on how model outputs can support real-world lending decisions.
 
